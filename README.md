@@ -7,11 +7,11 @@
 
 More details [Llama GitHub repository](https://github.com/ollama/ollama) 
 
-### Step 2: Start Llama
+### Step 2: Start Llama and download the Model weights
 Run the command 
 
 ```bash
-ollama run llama3
+ollama run gpt-oss:20b
 ```
 
 in your terminal to start Llama.
